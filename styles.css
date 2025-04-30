@@ -14,24 +14,39 @@ img {
   padding: 5%;
   border-radius: 20%;
 }
+button {
+  background-color: rgba(0, 0, 0, 0.75);
+  color: whitesmoke;
+  padding: 2%;
+  font-size: 25px;
+  border: none;
+  border-radius: 20%;
+  cursor: pointer;
+}
+.music_videos:hover {
+  background-color: azure;
+  border-radius: 20%;
+}
+.lyrics:hover {
+  background-color: azure;
+  border-radius: 20%;
+}
+.vinyl_collection:hover {
+  background-color: azure;
+  border-radius: 20%;
+}
 .music_videos {
   position: absolute;
   top: 50%;
-  left: 20%;
-  background-color: rgba(0, 0, 0, 0.75);
-  color: whitesmoke;
+  left: 17%;
 }
 .lyrics {
   position: absolute;
   top: 50%;
-  left: 50%;
-  background-color: rgba(0, 0, 0, 0.75);
-  color: whitesmoke;
+  left: 47%;
 }
 .vinyl_collection {
   position: absolute;
   top: 50%;
-  left: 80%;
-  background: black
-  color: whitesmoke;
+  left: 77%;
 }
