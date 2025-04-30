@@ -1,0 +1,37 @@
+h1 {
+  color: whitesmoke;
+  font-family: "Roboto Mono", monospace;
+}
+img {
+  max-width: 100%;
+}
+.cover_photo {
+  background-color: rgba(0, 0, 0, 0.75);
+  position: absolute;
+  justify-content: center;
+  top: 10%;
+  left: 35%;
+  padding: 5%;
+  border-radius: 20%;
+}
+.music_videos {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: whitesmoke;
+}
+.lyrics {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: whitesmoke;
+}
+.vinyl_collection {
+  position: absolute;
+  top: 50%;
+  left: 80%;
+  background: black
+  color: whitesmoke;
+}
